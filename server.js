@@ -1,4 +1,4 @@
-// ACCQUIRING THE NEEDED FUNCTIONS TO BE USED IN THE PROJECT
+// ACCQUIRING THE NEEDED PACKAGES TO BE USED IN THE PROJECT
 
 const express = require("express");
 const mysql = require("mysql");
